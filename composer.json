@@ -1,0 +1,7 @@
+{
+    "autoload":{
+        "psr-4":{
+            "Q\\RFC1149point5\\":"src"
+        }
+    }
+}
